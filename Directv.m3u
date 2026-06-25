@@ -141,3 +141,15 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1,HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1,Heroes & Icons
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
+#EXTINF:-1,HGTV HD
+https://cdn.telecloud.tv/CH3233/index.m3u8
+#EXTINF:-1,HISTORY
+http://103.205.133.70/history/index.m3u8
+#EXTINF:-1,HLN HD
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1,IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://212.5.144.156:8080/id/index.m3u8
