@@ -131,3 +131,13 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
 http://41.223.30.230/HALLMARK/index.m3u8
 #EXTINF:-1,Hallmark Mystery
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2492.ts
+#EXTINF:-1,HBO Drama HD East
+https://cdn.telecloud.tv/CH3265/index.m3u8
+#EXTINF:-1,HBO HD East
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1,HBO Hits HD East
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1,HBO Latino HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
+#EXTINF:-1,HBO Movies HD
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
