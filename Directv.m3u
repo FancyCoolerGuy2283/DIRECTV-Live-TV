@@ -1,11 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Directv" tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/a-b/Channel_Icon_AE.svg", A&E
+#EXTINF:-1,A&E
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 group-title="Directv" tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/a-b/Channel_Icon_AccuWeather.svg", AccuWeather
+#EXTINF:-1,AccuWeather
 http://148.251.2.19/AccuWeather/index.m3u8
-#EXTINF:-1 group-title="Directv" tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/a-b/Channel_Icon_AMC.svg", AMC
+#EXTINF:-1,AMC
 http://41.223.30.230/AMC/index.m3u8
-#EXTINF:-1 group-title="Directv" tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/a-b/Channel_Icon_AHC.svg", American Heros Channel (AHC)
+#EXTINF:-1,American Heros Channel (AHC)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1 group-title="Directv" tvg-logo="https://www.directv.com//dtvassets/global/channel-icons/a-b/Channel_Icon_AnimalPlanet.svg", Animal Planet
+#EXTINF:-1,Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,AXSTV
+http://23.239.31.26:8989/axstv/index.m3u8
+#EXTINF:-1,BabyFirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1,BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1,BBC News
+http://84.17.50.102/bbcnews/index.m3u8
+#EXTINF:-1,BET
+http://41.205.93.154/BET-EN/index.m3u8
+#EXTINF:-1,BET Her
+http://41.205.93.154/BETHER/index.m3u8
