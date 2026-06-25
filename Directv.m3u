@@ -1,26 +1,30 @@
 #EXTM3U
 #EXTINF:-1,A&E
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1,AccuWeather
-http://148.251.2.19/AccuWeather/index.m3u8
+#EXTINF:-1,ABC
+https://cdn.telecloud.tv/CH3271/index.m3u8
 #EXTINF:-1,AMC
 http://41.223.30.230/AMC/index.m3u8
+#EXTINF:-1,ACC Network HD
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1,American Heros Channel (AHC)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,Animal Planet HD
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1,AXSTV
+#EXTINF:-1,ASPIRE (HD)
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
+#EXTINF:-1,AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1,BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1,BBC America
+#EXTINF:-1,BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1,BBC News
-http://84.17.50.102/bbcnews/index.m3u8
-#EXTINF:-1,BET
+#EXTINF:-1,BET HD
 http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1,BET Her
 http://41.205.93.154/BETHER/index.m3u8
+#EXTINF:-1,Big Ten Network
+http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1,Bloomberg Television
 http://103.205.133.70/bloomberg/index.m3u8
 #EXTINF:-1,Blossom
