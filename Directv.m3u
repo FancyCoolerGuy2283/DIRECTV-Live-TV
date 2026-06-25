@@ -95,3 +95,13 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 http://41.205.93.154/ESPNU/index.m3u8
 #EXTINF:-1,Food Network HD
 https://cdn.telecloud.tv/CH3235/index.m3u8
+#EXTINF:-1,FOX
+https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
+#EXTINF:-1,FOX Business Network
+http://103.205.133.70/foxbusiness/index.m3u8
+#EXTINF:-1,FOX News Channel
+https://cdn.telecloud.tv/CH3239/index.m3u8
+#EXTINF:-1,FOX Sports 1 HD
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://103.205.133.70/foxsports2/index.m3u8
