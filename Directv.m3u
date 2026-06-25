@@ -47,3 +47,15 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1,Cinemx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
+#EXTINF:-1,Cleo TV
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
+#EXTINF:-1,CMT HD
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1,CNBC
+http://103.205.133.70/cnbc/index.m3u8
+#EXTINF:-1,CNBC World (Not 24/7)
+http://181.78.201.70:8000/play/a0se/index.m3u8
+#EXTINF:-1,CNN En Espanol
+http://190.238.43.117:9000/play/a0eo/index.m3u8
+#EXTINF:-1,CNN HD
+https://cdn.telecloud.tv/CH4647/index.m3u8
