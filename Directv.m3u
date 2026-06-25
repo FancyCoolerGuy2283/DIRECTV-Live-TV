@@ -59,3 +59,11 @@ http://181.78.201.70:8000/play/a0se/index.m3u8
 http://190.238.43.117:9000/play/a0eo/index.m3u8
 #EXTINF:-1,CNN HD
 https://cdn.telecloud.tv/CH4647/index.m3u8
+#EXTINF:-1,CNNi HD East
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Comedy Central HD
+http://194.76.0.79/COMEDY-CENTRAL/index.m3u8
+#EXTINF:-1,Cooking Channel HD
+http://103.205.133.70/cooking/index.m3u8
+#EXTINF:-1,Cozi TV
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2604.ts
