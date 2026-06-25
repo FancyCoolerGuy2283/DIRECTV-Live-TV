@@ -121,3 +121,13 @@ http://185.246.209.113/FYIHD/index.m3u8
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1,Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1,Golf Channel
+http://103.205.133.70/golf/index.m3u8
+#EXTINF:-1,Great America Family HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/84929.ts
+#EXTINF:-1,GRIT
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
+#EXTINF:-1,Hallmark Channel HD
+http://41.223.30.230/HALLMARK/index.m3u8
+#EXTINF:-1,Hallmark Mystery
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2492.ts
