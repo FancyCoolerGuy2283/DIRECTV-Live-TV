@@ -27,13 +27,23 @@ http://41.205.93.154/BETHER/index.m3u8
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1,Bloomberg Television
 http://103.205.133.70/bloomberg/index.m3u8
-#EXTINF:-1,Blossom
-https://stream1.freetv.fun/bloomberg-ht-5.m3u8
 #EXTINF:-1,Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1,Bounce
+#EXTINF:-1,BounceTV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1,Bravo
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,Cartoon Network HD
 https://cdn.telecloud.tv/CH4047/index.m3u8
+#EXTINF:-1,CBS
+https://cdn.telecloud.tv/CH3247/index.m3u8
+#EXTINF:-1,Cinemax Action HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/51557.ts
+#EXTINF:-1,Cinemax Classics HD
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1,Cinemax East HD
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1,Cinemax Hits HD
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1,Cinemx HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
