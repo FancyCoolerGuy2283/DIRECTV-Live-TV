@@ -105,3 +105,19 @@ https://cdn.telecloud.tv/CH3239/index.m3u8
 http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://103.205.133.70/foxsports2/index.m3u8
+#EXTINF:-1,Freeform HD
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:-1,Fuse HD
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1,FX HD
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1,FXM
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
+#EXTINF:-1,FXX HD
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1,FYI
+http://185.246.209.113/FYIHD/index.m3u8
+#EXTINF:-1,Galavision HD
+http://168.228.44.241:9997/play/a09e/index.m3u8
+#EXTINF:-1,Game Show Network HD
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
