@@ -67,3 +67,11 @@ http://194.76.0.79/COMEDY-CENTRAL/index.m3u8
 http://103.205.133.70/cooking/index.m3u8
 #EXTINF:-1,Cozi TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2604.ts
+#EXTINF:-1,Daystar HD
+http://restream-live.realiptv.to:8080/live/33741215/82527298/588480.ts
+#EXTINF:-1,Destination America HD
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1,Discovery Family Channel HD
+http://103.205.133.70/discoveryfamily/index.m3u8
+#EXTINF:-1,Discovery HD
+http://103.205.133.70/discovery/index.m3u8
