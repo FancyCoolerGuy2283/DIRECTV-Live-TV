@@ -131,17 +131,17 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
 http://41.223.30.230/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2492.ts
-#EXTINF:-1 group-title="Movies & Event", HBO Comedy HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png",  HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", HBO Drama HD East
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/960px-HBO_Signature_%282014%29.svg.png",  HBO Drama HD East
 https://cdn.telecloud.tv/CH3265/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", HBO HD East
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",  HBO HD East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 group-title="Entertainment", HBO Hits HD East
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png",  HBO Hits HD East
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", HBO Latino HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/960px-HBO_Latino_%282014%29.svg.png",  HBO Latino HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
-#EXTINF:-1 group-title="Movies & Event", HBO Movies HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/960px-HBO_Zone_%282014%29.svg.png",  HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
