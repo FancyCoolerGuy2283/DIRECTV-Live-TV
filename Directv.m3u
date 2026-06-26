@@ -153,3 +153,11 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1,Investigation Discovery HD
 http://212.5.144.156:8080/id/index.m3u8
+#EXTINF:-1,ION Mystery
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1,ION Television East HD
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1,Lifetime
+http://103.205.133.70/lifetime/index.m3u8
+#EXTINF:-1,Lifetime Movie Network
+http://84.17.50.102/lmn/index.m3u8
