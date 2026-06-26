@@ -263,3 +263,13 @@ http://103.205.133.70/weather/index.m3u8
 http://103.205.133.70/tlc_hd/index.m3u8
 #EXTINF:-1,TNT HD
 https://cdn.telecloud.tv/CH4641/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://103.205.133.70/travel/index.m3u8
+#EXTINF:-1,TruTV HD
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1,TUDN HD
+http://45.228.235.116:8000/play/a05p/index.m3u8
+#EXTINF:-1,TV One
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
+#EXTINF:-1,UniMas West HD
+http://168.228.44.241:9997/play/a045/index.m3u8
