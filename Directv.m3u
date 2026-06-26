@@ -281,3 +281,7 @@ http://45.228.235.116:8000/play/a0kr/index.m3u8
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1,USA Network
 http://103.205.133.70/usa/index.m3u8
+#EXTINF:-1,VH1 HD
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1,VICE
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
