@@ -102,7 +102,7 @@ http://103.205.133.70/foxbusiness/index.m3u8
 #EXTINF:-1,FOX News Channel
 https://cdn.telecloud.tv/CH3239/index.m3u8
 #EXTINF:-1,FOX Sports 1 HD
-http://41.223.30.230/FOXSPORTS1/index.m3u8
+https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1,FOX Sports 2 HD
 http://103.205.133.70/foxsports2/index.m3u8
 #EXTINF:-1,Freeform HD
@@ -167,3 +167,11 @@ http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1,MTV2 HD
 http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1,NBA TV HD
+https://cdn.telecloud.tv/CH3229/index.m3u8
+#EXTINF:-1,NBC
+http://190.83.9.222:8000/play/ca117/index.m3u8
