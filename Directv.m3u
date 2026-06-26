@@ -39,13 +39,13 @@ https://cdn.telecloud.tv/CH4047/index.m3u8
 https://cdn.telecloud.tv/CH3247/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Cinemax Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/51557.ts
-#EXTINF:-1,Cinemax Classics HD
+#EXTINF:-1 group-title="Movies & Event", Cinemax Classics HD
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1,Cinemax East HD
+#EXTINF:-1 group-title="Movies & Event", Cinemax East HD
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1,Cinemax Hits HD
+#EXTINF:-1 group-title="Movies & Event", Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1,Cinemáx HD
+#EXTINF:-1 group-title="Movies & Event", Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 #EXTINF:-1 group-title="Entertainment", Cleo TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
@@ -99,19 +99,19 @@ https://cdn.telecloud.tv/CH3235/index.m3u8
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 group-title="News & Information", FOX Business Network
 http://103.205.133.70/foxbusiness/index.m3u8
-#EXTINF:-1,FOX News Channel
+#EXTINF:-1 group-title="Movies & Event", FOX News Channel
 https://cdn.telecloud.tv/CH3239/index.m3u8
 #EXTINF:-1 group-title="National Sports", FOX Sports 1 HD
 https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 group-title="National Sports", FOX Sports 2 HD
 http://103.205.133.70/foxsports2/index.m3u8
-#EXTINF:-1,Freeform HD
+#EXTINF:-1 group-title="Movies & Event", Freeform HD
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment", FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1,FXM
+#EXTINF:-1 group-title="Movies & Event", FXM
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
 #EXTINF:-1 group-title="Entertainment", FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
@@ -127,21 +127,21 @@ http://103.205.133.70/golf/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/84929.ts
 #EXTINF:-1 group-title="Entertainment", GRIT
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
-#EXTINF:-1,Hallmark Channel HD
+#EXTINF:-1 group-title="Entertainment", Hallmark Channel HD
 http://41.223.30.230/HALLMARK/index.m3u8
-#EXTINF:-1,Hallmark Mystery
+#EXTINF:-1 group-title="Entertainment", Hallmark Mystery
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2492.ts
-#EXTINF:-1,HBO Comedy HD
+#EXTINF:-1 group-title="Movies & Event", HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1,HBO Drama HD East
+#EXTINF:-1 group-title="Movies & Event", HBO Drama HD East
 https://cdn.telecloud.tv/CH3265/index.m3u8
-#EXTINF:-1,HBO HD East
+#EXTINF:-1 group-title="Movies & Event", HBO HD East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="Entertainment", HBO Hits HD East
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1,HBO Latino HD
+#EXTINF:-1 group-title="Movies & Event", HBO Latino HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
-#EXTINF:-1,HBO Movies HD
+#EXTINF:-1 group-title="Movies & Event", HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
