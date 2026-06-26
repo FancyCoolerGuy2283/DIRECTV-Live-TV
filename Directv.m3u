@@ -117,19 +117,19 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://185.246.209.113/FYIHD/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Galavision HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",  Galavision HD
 http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Game Show Network HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1 group-title="National Sports", Golf Channel
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",  Golf Channel
 http://103.205.133.70/golf/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Great America Family HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TzvnHDn.png",  Great America Family HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/84929.ts
-#EXTINF:-1 group-title="Entertainment", GRIT
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6w1Wj3j.png", GRIT
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
-#EXTINF:-1 group-title="Entertainment", Hallmark Channel HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",  Hallmark Channel HD
 http://41.223.30.230/HALLMARK/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Hallmark Mystery
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2492.ts
 #EXTINF:-1 group-title="Movies & Event", HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
