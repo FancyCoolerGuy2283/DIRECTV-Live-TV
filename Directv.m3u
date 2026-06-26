@@ -35,17 +35,17 @@ http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
 https://cdn.telecloud.tv/CH4047/index.m3u8
-#EXTINF:-1 group-title="Local Channel", CBS
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
 https://cdn.telecloud.tv/CH3247/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Cinemax Action HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",  Cinemax Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/51557.ts
-#EXTINF:-1 group-title="Movies & Event", Cinemax Classics HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/960px-5StarMax_Logo.svg.png",  Cinemax Classics HD
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Cinemax East HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",  Cinemax East HD
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Cinemax Hits HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",  Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Cinemáx HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/GfsmfGK.png",  Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 #EXTINF:-1 group-title="Entertainment", Cleo TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
