@@ -191,3 +191,11 @@ http://103.205.133.70/nickjr/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1,Nicktoons
 http://103.205.133.70/nicktoons/index.m3u8
+#EXTINF:-1,Ovation HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
+#EXTINF:-1,OWN HD
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1,Paramount TV
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1,Paramount+ With Showtime East HD
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
