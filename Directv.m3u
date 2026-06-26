@@ -143,17 +143,17 @@ http://23.237.104.106:8080/USA_HBO2/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/960px-HBO_Zone_%282014%29.svg.png",  HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Heroes & Icons
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
-#EXTINF:-1 group-title="Entertainment", HGTV HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",  HGTV HD
 https://cdn.telecloud.tv/CH3233/index.m3u8
-#EXTINF:-1 group-title="Entertainment", HISTORY
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",  HISTORY
 http://103.205.133.70/history/index.m3u8
-#EXTINF:-1 group-title="News & Information", HLN HD
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",  HLN HD
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 group-title="Entertainment", IFC
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bQdkyF9.png",  IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Investigation Discovery HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",  Investigation Discovery HD
 http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1 group-title="Entertainment", ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
