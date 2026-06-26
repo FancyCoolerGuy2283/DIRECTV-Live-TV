@@ -197,13 +197,13 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",  Paramount TV
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Paramount+ With Showtime East HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/Or0LKsu.png",  Paramount+ With Showtime East HD
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="Local Channel", PBS
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/8c8isLj.png",  PBS
 http://104.129.12.146:18080/stream/pbs.ts
-#EXTINF:-1 group-title="Family & Kids", PBS Kids
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://seeklogo.com/images/P/pbs-kids-logo-7374D3289B-seeklogo.com.png",  PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 group-title="News & Information", Science HD
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1 group-title="Movies & Event", SHOWTIME 2 HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
