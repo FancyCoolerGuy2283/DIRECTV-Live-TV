@@ -23,17 +23,17 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://41.205.93.154/BET-EN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
 http://41.205.93.154/BETHER/index.m3u8
-#EXTINF:-1 group-title="National Sports", Big Ten Network
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",  Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 group-title="News & Information", Bloomberg TV HD
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/R7FCaB5.png", Bloomberg TV HD
 http://103.205.133.70/bloomberg/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", Boomerang
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",  Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 group-title="Entertainment", BounceTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",  BounceTV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Bravo
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", Cartoon Network HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
 https://cdn.telecloud.tv/CH4047/index.m3u8
 #EXTINF:-1 group-title="Local Channel", CBS
 https://cdn.telecloud.tv/CH3247/index.m3u8
