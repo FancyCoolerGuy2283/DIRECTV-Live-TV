@@ -25,7 +25,7 @@ http://41.205.93.154/BET-EN/index.m3u8
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 group-title="National Sports", Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 News & Information", Bloomberg TV HD
+#EXTINF:-1 group-title="News & Information", Bloomberg TV HD
 http://103.205.133.70/bloomberg/index.m3u8
 #EXTINF:-1 group-title="Family & Kids", Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -155,13 +155,13 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Investigation Discovery HD
 http://212.5.144.156:8080/id/index.m3u8
-#EXTINF:-1,ION Mystery
+#EXTINF:-1 group-title="Entertainment", ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment", ION Television East HD
 http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Lifetime
 http://103.205.133.70/lifetime/index.m3u8
-#EXTINF:-1,Lifetime Movie Network
+#EXTINF:-1 group-title="Movies & Event", Lifetime Movie Network
 http://84.17.50.102/lmn/index.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV Classic
 http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
@@ -205,43 +205,43 @@ http://104.129.12.146:18080/stream/pbs.ts
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="News & Information", Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
-#EXTINF:-1,SHOWTIME 2 HD
+#EXTINF:-1 group-title="Movies & Event", SHOWTIME 2 HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
-#EXTINF:-1,Showtime Extreme HD
+#EXTINF:-1 group-title="Movies & Event", Showtime Extreme HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3967.ts
-#EXTINF:-1,Showtime Family & Zone HD
+#EXTINF:-1 group-title="Movies & Event", Showtime Family & Zone HD
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1,Showtime Next HD
+#EXTINF:-1 group-title="Movies & Event", Showtime Next HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
 #EXTINF:-1 group-title="Entertainment", Showtime Showcase HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
 #EXTINF:-1 group-title="Entertainment", SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
-#EXTINF:-1,STARZ Cinema HD
+#EXTINF:-1 group-title="Movies & Event", STARZ Cinema HD
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1,STARZ Comedy HD
+#EXTINF:-1 group-title="Movies & Event", STARZ Comedy HD
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1,STARZ East HD
+#EXTINF:-1 group-title="Movies & Event", STARZ East HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1,STARZ Edge HD
+#EXTINF:-1 group-title="Movies & Event", STARZ Edge HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3961.ts
-#EXTINF:-1,STARZ Encore Action HD
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3952.ts
-#EXTINF:-1,STARZ Encore Black
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Black
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3954.ts
-#EXTINF:-1,STARZ Encore Classic
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Classic
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3953.ts
-#EXTINF:-1,STARZ Encore Family
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Family
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3957.ts
-#EXTINF:-1,STARZ Encore HD
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3950.ts
-#EXTINF:-1,STARZ Encore Suspence
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Suspence
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3958.ts
-#EXTINF:-1,STARZ Encore West
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore West
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3951.ts
-#EXTINF:-1,STARZ Encore Westerns
+#EXTINF:-1 group-title="Movies & Event", STARZ Encore Westerns
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3955.ts
-#EXTINF:-1,STARZ In Black HD
+#EXTINF:-1 group-title="Movies & Event", STARZ In Black HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3962.ts
 #EXTINF:-1 group-title="Entertainment", STARZ Kids & Family HD
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
@@ -251,7 +251,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2408.ts
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="Entertainment", TBS HD
 https://cdn.telecloud.tv/CH3273/index.m3u8
-#EXTINF:-1,TCM HD
+#EXTINF:-1 group-title="Movies & Event", TCM HD
 http://194.76.0.79/TCM/index.m3u8
 #EXTINF:-1 group-title="Family & Kids", TeenNick
 http://103.205.133.70/teennick/index.m3u8
@@ -283,5 +283,5 @@ http://138.121.15.230:9002/UNIVISION/index.m3u8
 http://103.205.133.70/usa/index.m3u8
 #EXTINF:-1 group-title="Entertainment", VH1 HD
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1,VICE
+#EXTINF:-1 group-title="Movies & Event", VICE
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
