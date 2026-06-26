@@ -61,15 +61,15 @@ http://190.238.43.117:9000/play/a0eo/index.m3u8
 https://cdn.telecloud.tv/CH4647/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/dfxefQw.png",  CNNi HD East
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Entertainment", Comedy Central HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",  Comedy Central HD
 http://194.76.0.79/COMEDY-CENTRAL/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Cooking Channel HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",  Cooking Channel HD
 http://103.205.133.70/cooking/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Cozi TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",  Cozi TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2604.ts
-#EXTINF:-1 group-title="Entertainment", Daystar HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5541.png",  Daystar HD
 http://restream-live.realiptv.to:8080/live/33741215/82527298/588480.ts
-#EXTINF:-1 group-title="Entertainment", Destination America HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png",  Destination America HD
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Family & Kids", Discovery Family Channel HD
 http://103.205.133.70/discoveryfamily/index.m3u8
