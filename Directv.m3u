@@ -205,17 +205,17 @@ http://104.129.12.146:18080/stream/pbs.ts
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", SHOWTIME 2 HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
-#EXTINF:-1 group-title="Movies & Event", Showtime Extreme HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/byJNJdm.png",  Showtime Extreme HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3967.ts
-#EXTINF:-1 group-title="Movies & Event", Showtime Family & Zone HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/qwJUawJ.png",  Showtime Family & Zone HD
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Showtime Next HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
-#EXTINF:-1 group-title="Entertainment", Showtime Showcase HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/CLyGvZZ.png",  Showtime Showcase HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
-#EXTINF:-1 group-title="Entertainment", SHOxBET HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
 #EXTINF:-1 group-title="Movies & Event", STARZ Cinema HD
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
