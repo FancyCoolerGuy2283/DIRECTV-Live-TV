@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1,A&E
+#EXTINF:-1 group-title="Entertainment", A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="Local Channel", ABC
 https://cdn.telecloud.tv/CH3271/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="Entertainment", AMC
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 group-title="National Sports", ACC Network HD
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
-#EXTINF:-1,American Heros Channel (AHC)
+#EXTINF:-1 group-title="Entertainment", American Heros Channel (AHC)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1 group-title="Entertainment", Animal Planet HD
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1,ASPIRE (HD)
+#EXTINF:-1 group-title="Entertainment", ASPIRE (HD)
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
-#EXTINF:-1,AXS TV HD
+#EXTINF:-1 group-title="Entertainment", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1,BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1,BBC America HD
+#EXTINF:-1 group-title="Entertainment", BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1,BET HD
+#EXTINF:-1 group-title="Entertainment", BET HD
 http://41.205.93.154/BET-EN/index.m3u8
-#EXTINF:-1,BET Her
+#EXTINF:-1 group-title="Entertainment", BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 group-title="National Sports", Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1,Bloomberg Television
+#EXTINF:-1,Bloomberg TV
 http://103.205.133.70/bloomberg/index.m3u8
 #EXTINF:-1,Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1,BounceTV
+#EXTINF:-1 group-title="Entertainment", BounceTV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-#EXTINF:-1,Bravo
+#EXTINF:-1 group-title="Entertainment", Bravo
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 https://cdn.telecloud.tv/CH4047/index.m3u8
 #EXTINF:-1 group-title="Local Channel", CBS
 https://cdn.telecloud.tv/CH3247/index.m3u8
-#EXTINF:-1,Cinemax Action HD
+#EXTINF:-1 group-title="Entertainment", Cinemax Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/51557.ts
 #EXTINF:-1,Cinemax Classics HD
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -47,9 +47,9 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1,Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
-#EXTINF:-1,Cleo TV
+#EXTINF:-1 group-title="Entertainment", Cleo TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
-#EXTINF:-1,CMT HD
+#EXTINF:-1 group-title="Entertainment", CMT HD
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1,CNBC
 http://103.205.133.70/cnbc/index.m3u8
@@ -61,21 +61,21 @@ http://190.238.43.117:9000/play/a0eo/index.m3u8
 https://cdn.telecloud.tv/CH4647/index.m3u8
 #EXTINF:-1,CNNi HD East
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1 group-title="Entertainment", Comedy Central HD
 http://194.76.0.79/COMEDY-CENTRAL/index.m3u8
-#EXTINF:-1,Cooking Channel HD
+#EXTINF:-1 group-title="Entertainment", Cooking Channel HD
 http://103.205.133.70/cooking/index.m3u8
-#EXTINF:-1,Cozi TV
+#EXTINF:-1 group-title="Entertainment", Cozi TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2604.ts
-#EXTINF:-1,Daystar HD
+#EXTINF:-1 group-title="Entertainment", Daystar HD
 http://restream-live.realiptv.to:8080/live/33741215/82527298/588480.ts
-#EXTINF:-1,Destination America HD
+#EXTINF:-1 group-title="Entertainment", Destination America HD
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1,Discovery Family Channel HD
 http://103.205.133.70/discoveryfamily/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1 group-title="Entertainment", Discovery HD
 http://103.205.133.70/discovery/index.m3u8
-#EXTINF:-1,Discovery Life
+#EXTINF:-1 group-title="Entertainment", Discovery Life
 https://streamer1.nexgen.bz/DISCOVERYLIFE/index.m3u8
 #EXTINF:-1,Discovery Turbo HD
 http://190.83.9.222:8000/play/a00u/index.m3u8
@@ -93,7 +93,7 @@ http://84.17.50.102/espn2/index.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 group-title="National Sports", ESPNU HD
 http://41.205.93.154/ESPNU/index.m3u8
-#EXTINF:-1,Food Network HD
+#EXTINF:-1 group-title="Entertainment", Food Network HD
 https://cdn.telecloud.tv/CH3235/index.m3u8
 #EXTINF:-1 group-title="Local Channel", FOX
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
@@ -107,13 +107,13 @@ https://cdn.telecloud.tv/CH3223/index.m3u8
 http://103.205.133.70/foxsports2/index.m3u8
 #EXTINF:-1,Freeform HD
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
-#EXTINF:-1,Fuse HD
+#EXTINF:-1 group-title="Entertainment", Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="Entertainment", FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1,FXM
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
-#EXTINF:-1,FXX HD
+#EXTINF:-1 group-title="Entertainment", FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1,FYI
 http://185.246.209.113/FYIHD/index.m3u8
