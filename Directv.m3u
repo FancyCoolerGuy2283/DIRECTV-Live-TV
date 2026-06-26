@@ -7,13 +7,13 @@ https://cdn.telecloud.tv/CH3271/index.m3u8
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/TpCkbkT.png",  ACC Network HD
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
-#EXTINF:-1 group-title="Entertainment", American Heros Channel (AHC)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",  American Heros Channel (AHC)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Animal Planet HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",  Animal Planet HD
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 group-title="Entertainment", ASPIRE (HD)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TOM5qO6.png",  ASPIRE (HD)
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
-#EXTINF:-1 group-title="Entertainment", AXS TV HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="Family & Kids", BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
