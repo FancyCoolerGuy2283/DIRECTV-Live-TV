@@ -45,7 +45,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1,Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1,Cinemx HD
+#EXTINF:-1,Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 #EXTINF:-1,Cleo TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
@@ -175,3 +175,17 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 https://cdn.telecloud.tv/CH3229/index.m3u8
 #EXTINF:-1,NBC
 http://190.83.9.222:8000/play/ca117/index.m3u8
+#EXTINF:-1,Newsmax TV HD
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1,NewsNation HD
+http://198.58.104.90:8989/newsnation/index.m3u8
+#EXTINF:-1,NFL Network HD
+https://cdn.telecloud.tv/CH3227/index.m3u8
+#EXTINF:-1,NHL Network HD
+http://198.58.104.90:8989/nhl/index.m3u8
+#EXTINF:-1,Nick Jr. HD
+http://103.205.133.70/nickjr/index.m3u8
+#EXTINF:-1,Nickelodeon East HD
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1,Nicktoons
+http://103.205.133.70/nicktoons/index.m3u8
