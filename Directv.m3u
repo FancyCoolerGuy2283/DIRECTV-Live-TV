@@ -153,7 +153,7 @@ http://103.205.133.70/history/index.m3u8
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 group-title="Entertainment", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1,Investigation Discovery HD
+#EXTINF:-1 group-title="Entertainment", Investigation Discovery HD
 http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1,ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
@@ -169,7 +169,7 @@ http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment", MTV2 HD
 http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1 group-title="Entertainment", Nat Geo Wild HD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1,National Geographic HD
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
@@ -179,7 +179,7 @@ https://cdn.telecloud.tv/CH3229/index.m3u8
 http://190.83.9.222:8000/play/ca117/index.m3u8
 #EXTINF:-1,Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1,NewsNation HD
+#EXTINF:-1 group-title="Entertainment", NewsNation HD
 http://198.58.104.90:8989/newsnation/index.m3u8
 #EXTINF:-1 group-title="National Sports", NFL Network HD
 https://cdn.telecloud.tv/CH3227/index.m3u8
@@ -191,11 +191,11 @@ http://103.205.133.70/nickjr/index.m3u8
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1,Nicktoons
 http://103.205.133.70/nicktoons/index.m3u8
-#EXTINF:-1,Ovation HD
+#EXTINF:-1 group-title="Entertainment", Ovation HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
-#EXTINF:-1,OWN HD
+#EXTINF:-1 group-title="Entertainment", OWN HD
 http://23.237.104.106:8080/USA_OWN/index.m3u8
-#EXTINF:-1,Paramount TV
+#EXTINF:-1 group-title="Entertainment", Paramount TV
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1,Paramount+ With Showtime East HD
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
@@ -213,9 +213,9 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3967.ts
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1,Showtime Next HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
-#EXTINF:-1,Showtime Showcase HD
+#EXTINF:-1 group-title="Entertainment", Showtime Showcase HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
-#EXTINF:-1,SHOxBET HD
+#EXTINF:-1 group-title="Entertainment", SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
 #EXTINF:-1,STARZ Cinema HD
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
@@ -243,13 +243,13 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3951.ts
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3955.ts
 #EXTINF:-1,STARZ In Black HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3962.ts
-#EXTINF:-1,STARZ Kids & Family HD
+#EXTINF:-1 group-title="Entertainment", STARZ Kids & Family HD
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1,Sundance TV
+#EXTINF:-1 group-title="Entertainment", Sundance TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2408.ts
-#EXTINF:-1,Syfy
+#EXTINF:-1 group-title="Entertainment", Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1,TBS HD
+#EXTINF:-1 group-title="Entertainment", TBS HD
 https://cdn.telecloud.tv/CH3273/index.m3u8
 #EXTINF:-1,TCM HD
 http://194.76.0.79/TCM/index.m3u8
@@ -259,29 +259,29 @@ http://103.205.133.70/teennick/index.m3u8
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1,The Weather Channel HD
 http://103.205.133.70/weather/index.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="Entertainment",!TLC HD
 http://103.205.133.70/tlc_hd/index.m3u8
 #EXTINF:-1,TNT HD
 https://cdn.telecloud.tv/CH4641/index.m3u8
-#EXTINF:-1,Travel Channel HD
+#EXTINF:-1 group-title="Entertainment", Travel Channel HD
 http://103.205.133.70/travel/index.m3u8
-#EXTINF:-1,TruTV HD
+#EXTINF:-1 group-title="Entertainment", TruTV HD
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="National Sports", TUDN HD
 http://45.228.235.116:8000/play/a05p/index.m3u8
-#EXTINF:-1,TV One
+#EXTINF:-1 group-title="Entertainment", TV One
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
-#EXTINF:-1,UniMas West HD
+#EXTINF:-1 group-title="Entertainment", UniMas West HD
 http://168.228.44.241:9997/play/a045/index.m3u8
-#EXTINF:-1,UNIVERSO
+#EXTINF:-1 group-title="Entertainment", UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channel", Univision
 http://45.228.235.116:8000/play/a0kr/index.m3u8
-#EXTINF:-1,Univision East HD
+#EXTINF:-1 group-title="Entertainment", Univision East HD
 http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1,USA Network
+#EXTINF:-1 group-title="Entertainment", USA Network
 http://103.205.133.70/usa/index.m3u8
-#EXTINF:-1,VH1 HD
+#EXTINF:-1 group-title="Entertainment", VH1 HD
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1,VICE
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
