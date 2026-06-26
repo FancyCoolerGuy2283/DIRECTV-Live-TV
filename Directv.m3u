@@ -185,17 +185,17 @@ http://198.58.104.90:8989/newsnation/index.m3u8
 https://cdn.telecloud.tv/CH3227/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/UNZ8bef.png",  NHL Network HD
 http://198.58.104.90:8989/nhl/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", Nick Jr. HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png",  Nick Jr. HD
 http://103.205.133.70/nickjr/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", Nickelodeon East HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/E84jnP8.png",  Nickelodeon East HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", Nicktoons
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png",  Nicktoons
 http://103.205.133.70/nicktoons/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Ovation HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/A3o9gvc.png",  Ovation HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
-#EXTINF:-1 group-title="Entertainment", OWN HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",  OWN HD
 http://23.237.104.106:8080/USA_OWN/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Paramount TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",  Paramount TV
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Movies & Event", Paramount+ With Showtime East HD
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
