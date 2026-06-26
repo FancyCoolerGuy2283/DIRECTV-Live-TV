@@ -217,19 +217,19 @@ http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
-#EXTINF:-1 group-title="Movies & Event", STARZ Cinema HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/ghzzKoT.png",  STARZ Cinema HD
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", STARZ Comedy HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/JpKvjZe.png",  STARZ Comedy HD
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", STARZ East HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/N7oSm4d.png",  STARZ East HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", STARZ Edge HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/MvH3Cz2.png",  STARZ Edge HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3961.ts
-#EXTINF:-1 group-title="Movies & Event", STARZ Encore Action HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/wIf4X0i.png",  STARZ Encore Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3952.ts
-#EXTINF:-1 group-title="Movies & Event", STARZ Encore Black
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/nkQgShJ.png",  STARZ Encore Black
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3954.ts
-#EXTINF:-1 group-title="Movies & Event", STARZ Encore Classic
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/L6GjoS4.png",  STARZ Encore Classic
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3953.ts
 #EXTINF:-1 group-title="Movies & Event", STARZ Encore Family
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3957.ts
