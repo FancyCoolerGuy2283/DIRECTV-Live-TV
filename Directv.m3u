@@ -115,17 +115,17 @@ http://23.237.104.106:8080/USA_FX/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
 #EXTINF:-1 group-title="Entertainment", FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1,FYI
+#EXTINF:-1 group-title="Entertainment", FYI
 http://185.246.209.113/FYIHD/index.m3u8
-#EXTINF:-1,Galavision HD
+#EXTINF:-1 group-title="Entertainment", Galavision HD
 http://168.228.44.241:9997/play/a09e/index.m3u8
-#EXTINF:-1,Game Show Network HD
+#EXTINF:-1 group-title="Entertainment", Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="National Sports", Golf Channel
 http://103.205.133.70/golf/index.m3u8
-#EXTINF:-1,Great America Family HD
+#EXTINF:-1 group-title="Entertainment", Great America Family HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/84929.ts
-#EXTINF:-1,GRIT
+#EXTINF:-1 group-title="Entertainment", GRIT
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/40583.ts
 #EXTINF:-1,Hallmark Channel HD
 http://41.223.30.230/HALLMARK/index.m3u8
@@ -137,37 +137,37 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 https://cdn.telecloud.tv/CH3265/index.m3u8
 #EXTINF:-1,HBO HD East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1,HBO Hits HD East
+#EXTINF:-1 group-title="Entertainment", HBO Hits HD East
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1,HBO Latino HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1,HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1,Heroes & Icons
+#EXTINF:-1 group-title="Entertainment", Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
-#EXTINF:-1,HGTV HD
+#EXTINF:-1 group-title="Entertainment", HGTV HD
 https://cdn.telecloud.tv/CH3233/index.m3u8
-#EXTINF:-1,HISTORY
+#EXTINF:-1 group-title="Entertainment", HISTORY
 http://103.205.133.70/history/index.m3u8
 #EXTINF:-1,HLN HD
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1,IFC
+#EXTINF:-1 group-title="Entertainment", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1,Investigation Discovery HD
 http://212.5.144.156:8080/id/index.m3u8
 #EXTINF:-1,ION Mystery
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
-#EXTINF:-1,ION Television East HD
+#EXTINF:-1 group-title="Entertainment", ION Television East HD
 http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="Entertainment", Lifetime
 http://103.205.133.70/lifetime/index.m3u8
 #EXTINF:-1,Lifetime Movie Network
 http://84.17.50.102/lmn/index.m3u8
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 group-title="Entertainment", MTV Classic
 http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="Entertainment", MTV HD
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1,MTV2 HD
+#EXTINF:-1 group-title="Entertainment", MTV2 HD
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1,Nat Geo Wild HD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
