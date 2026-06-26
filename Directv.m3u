@@ -205,4 +205,15 @@ http://104.129.12.146:18080/stream/pbs.ts
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1,Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
-#EXTINF:-1,
+#EXTINF:-1,SHOWTIME 2 HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
+#EXTINF:-1,Showtime Extreme HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3967.ts
+#EXTINF:-1,Showtime Family & Zone HD
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1,Showtime Next HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631889
+#EXTINF:-1,Showtime Showcase HD
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
+#EXTINF:-1,SHOxBET HD
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
