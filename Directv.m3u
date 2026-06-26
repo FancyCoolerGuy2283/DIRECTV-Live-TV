@@ -15,7 +15,7 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
 #EXTINF:-1 group-title="Entertainment", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1,BabyFirst
+#EXTINF:-1 group-title="Family & Kids", BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
 #EXTINF:-1 group-title="Entertainment", BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
@@ -27,13 +27,13 @@ http://41.205.93.154/BETHER/index.m3u8
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 News & Information", Bloomberg TV HD
 http://103.205.133.70/bloomberg/index.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1 group-title="Family & Kids", Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Entertainment", BounceTV
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Bravo
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1 group-title="Family & Kids", Cartoon Network HD
 https://cdn.telecloud.tv/CH4047/index.m3u8
 #EXTINF:-1 group-title="Local Channel", CBS
 https://cdn.telecloud.tv/CH3247/index.m3u8
@@ -71,19 +71,19 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2604.ts
 http://restream-live.realiptv.to:8080/live/33741215/82527298/588480.ts
 #EXTINF:-1 group-title="Entertainment", Destination America HD
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:-1,Discovery Family Channel HD
+#EXTINF:-1 group-title="Family & Kids", Discovery Family Channel HD
 http://103.205.133.70/discoveryfamily/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Discovery HD
 http://103.205.133.70/discovery/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Discovery Life
 https://streamer1.nexgen.bz/DISCOVERYLIFE/index.m3u8
-#EXTINF:-1,Discovery Turbo HD
+#EXTINF:-1 group-title="Family & Kids", Discovery Turbo HD
 http://190.83.9.222:8000/play/a00u/index.m3u8
-#EXTINF:-1,Disney Channel HD
+#EXTINF:-1 group-title="Family & Kids", Disney Channel HD
 http://212.5.144.156:8080/disney/index.m3u8
-#EXTINF:-1,Disney Junior HD
+#EXTINF:-1 group-title="Family & Kids", Disney Junior HD
 http://212.5.144.156:8080/disneyjr/index.m3u8
-#EXTINF:-1,Disney XD HD
+#EXTINF:-1 group-title="Family & Kids", Disney XD HD
 http://103.205.133.70/disneyxd/index.m3u8
 #EXTINF:-1 group-title="National Sports", ESPN HD
 https://cdn.telecloud.tv/CH3257/index.m3u8
@@ -185,11 +185,11 @@ http://198.58.104.90:8989/newsnation/index.m3u8
 https://cdn.telecloud.tv/CH3227/index.m3u8
 #EXTINF:-1 group-title="National Sports", NHL Network HD
 http://198.58.104.90:8989/nhl/index.m3u8
-#EXTINF:-1,Nick Jr. HD
+#EXTINF:-1 group-title="Family & Kids", Nick Jr. HD
 http://103.205.133.70/nickjr/index.m3u8
-#EXTINF:-1,Nickelodeon East HD
+#EXTINF:-1 group-title="Family & Kids", Nickelodeon East HD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1,Nicktoons
+#EXTINF:-1 group-title="Family & Kids", Nicktoons
 http://103.205.133.70/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Ovation HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/31180.ts
@@ -201,7 +201,7 @@ http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Local Channel", PBS
 http://104.129.12.146:18080/stream/pbs.ts
-#EXTINF:-1,PBS Kids
+#EXTINF:-1 group-title="Family & Kids", PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="News & Information", Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
@@ -253,7 +253,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 https://cdn.telecloud.tv/CH3273/index.m3u8
 #EXTINF:-1,TCM HD
 http://194.76.0.79/TCM/index.m3u8
-#EXTINF:-1,TeenNick
+#EXTINF:-1 group-title="Family & Kids", TeenNick
 http://103.205.133.70/teennick/index.m3u8
 #EXTINF:-1 group-title="National Sports", Tennis Channel HD
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
