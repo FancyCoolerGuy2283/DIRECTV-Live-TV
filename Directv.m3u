@@ -227,3 +227,8 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3961.ts
 #EXTINF:-1,STARZ Encore Action HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3952.ts
+#EXTINF:-1,STARZ Encore Black
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3954.ts
+#EXTINF:-1,STARZ Encore Classic
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3953.ts
+#EXTINF:-1,STARZ 
