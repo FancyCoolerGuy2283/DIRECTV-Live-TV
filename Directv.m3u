@@ -105,17 +105,17 @@ https://cdn.telecloud.tv/CH3239/index.m3u8
 https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
 http://103.205.133.70/foxsports2/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", Freeform HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment", Fuse HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 group-title="Entertainment", FX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZScwrpi.png",  FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", FXM
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/7dyLCv4.png",  FXM
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2497.ts
-#EXTINF:-1 group-title="Entertainment", FXX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",  FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-#EXTINF:-1 group-title="Entertainment", FYI
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://185.246.209.113/FYIHD/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Galavision HD
 http://168.228.44.241:9997/play/a09e/index.m3u8
