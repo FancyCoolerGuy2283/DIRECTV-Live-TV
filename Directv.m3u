@@ -199,3 +199,10 @@ http://23.237.104.106:8080/USA_OWN/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1,Paramount+ With Showtime East HD
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1,PBS
+http://104.129.12.146:18080/stream/pbs.ts
+#EXTINF:-1,PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1,Science HD
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1,
