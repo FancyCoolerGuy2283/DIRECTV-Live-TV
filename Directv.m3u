@@ -93,17 +93,17 @@ http://84.17.50.102/espn2/index.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU HD
 http://41.205.93.154/ESPNU/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Food Network HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network HD
 https://cdn.telecloud.tv/CH3235/index.m3u8
-#EXTINF:-1 group-title="Local Channel", FOX
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",  FOX
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
-#EXTINF:-1 group-title="News & Information", FOX Business Network
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",  FOX Business Network
 http://103.205.133.70/foxbusiness/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", FOX News Channel
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
 https://cdn.telecloud.tv/CH3239/index.m3u8
-#EXTINF:-1 group-title="National Sports", FOX Sports 1 HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
 https://cdn.telecloud.tv/CH3223/index.m3u8
-#EXTINF:-1 group-title="National Sports", FOX Sports 2 HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
 http://103.205.133.70/foxsports2/index.m3u8
 #EXTINF:-1 group-title="Movies & Event", Freeform HD
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
