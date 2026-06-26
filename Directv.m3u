@@ -25,7 +25,7 @@ http://41.205.93.154/BET-EN/index.m3u8
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 group-title="National Sports", Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1,Bloomberg TV
+#EXTINF:-1 News & Information", Bloomberg TV HD
 http://103.205.133.70/bloomberg/index.m3u8
 #EXTINF:-1,Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -51,15 +51,15 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/573316.ts
 #EXTINF:-1 group-title="Entertainment", CMT HD
 http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1 group-title="News & Information", CNBC
 http://103.205.133.70/cnbc/index.m3u8
-#EXTINF:-1,CNBC World (Not 24/7)
+#EXTINF:-1 group-title="News & Information", CNBC World (Not 24/7)
 http://181.78.201.70:8000/play/a0se/index.m3u8
-#EXTINF:-1,CNN En Espanol
+#EXTINF:-1 group-title="News & Information", CNN En Espanol
 http://190.238.43.117:9000/play/a0eo/index.m3u8
-#EXTINF:-1,CNN HD
+#EXTINF:-1 group-title="News & Information", CNN HD
 https://cdn.telecloud.tv/CH4647/index.m3u8
-#EXTINF:-1,CNNi HD East
+#EXTINF:-1 group-title="News & Information", CNNi HD East
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Entertainment", Comedy Central HD
 http://194.76.0.79/COMEDY-CENTRAL/index.m3u8
@@ -97,7 +97,7 @@ http://41.205.93.154/ESPNU/index.m3u8
 https://cdn.telecloud.tv/CH3235/index.m3u8
 #EXTINF:-1 group-title="Local Channel", FOX
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
-#EXTINF:-1,FOX Business Network
+#EXTINF:-1 group-title="News & Information", FOX Business Network
 http://103.205.133.70/foxbusiness/index.m3u8
 #EXTINF:-1,FOX News Channel
 https://cdn.telecloud.tv/CH3239/index.m3u8
@@ -149,7 +149,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
 https://cdn.telecloud.tv/CH3233/index.m3u8
 #EXTINF:-1 group-title="Entertainment", HISTORY
 http://103.205.133.70/history/index.m3u8
-#EXTINF:-1,HLN HD
+#EXTINF:-1 group-title="News & Information", HLN HD
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 group-title="Entertainment", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
@@ -177,7 +177,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 https://cdn.telecloud.tv/CH3229/index.m3u8
 #EXTINF:-1 group-title="Local Channel", NBC
 http://190.83.9.222:8000/play/ca117/index.m3u8
-#EXTINF:-1,Newsmax TV HD
+#EXTINF:-1 group-title="News & Information", Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 group-title="Entertainment", NewsNation HD
 http://198.58.104.90:8989/newsnation/index.m3u8
@@ -203,7 +203,7 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 http://104.129.12.146:18080/stream/pbs.ts
 #EXTINF:-1,PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1,Science HD
+#EXTINF:-1 group-title="News & Information", Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
 #EXTINF:-1,SHOWTIME 2 HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3965.ts
@@ -257,11 +257,11 @@ http://194.76.0.79/TCM/index.m3u8
 http://103.205.133.70/teennick/index.m3u8
 #EXTINF:-1 group-title="National Sports", Tennis Channel HD
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1,The Weather Channel HD
+#EXTINF:-1 group-title="News & Information", The Weather Channel HD
 http://103.205.133.70/weather/index.m3u8
-#EXTINF:-1 group-title="Entertainment",!TLC HD
+#EXTINF:-1 group-title="Entertainment", TLC HD
 http://103.205.133.70/tlc_hd/index.m3u8
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="Entertainment", TNT HD
 https://cdn.telecloud.tv/CH4641/index.m3u8
 #EXTINF:-1 group-title="Entertainment", Travel Channel HD
 http://103.205.133.70/travel/index.m3u8
