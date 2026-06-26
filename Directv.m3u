@@ -15,13 +15,13 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", BabyFirst
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
 https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
-#EXTINF:-1 group-title="Entertainment", BBC America HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Entertainment", BET HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
 http://41.205.93.154/BET-EN/index.m3u8
-#EXTINF:-1 group-title="Entertainment", BET Her
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
 http://41.205.93.154/BETHER/index.m3u8
 #EXTINF:-1 group-title="National Sports", Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
