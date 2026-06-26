@@ -169,21 +169,21 @@ http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",  MTV2 HD
 http://198.58.104.90:8989/mtv2/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Nat Geo Wild HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",  Nat Geo Wild HD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
-#EXTINF:-1 group-title="Entertainment", National Geographic HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",  National Geographic HD
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 group-title="National Sports", NBA TV HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",  NBA TV HD
 https://cdn.telecloud.tv/CH3229/index.m3u8
-#EXTINF:-1 group-title="Local Channel", NBC
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",  NBC
 http://190.83.9.222:8000/play/ca117/index.m3u8
-#EXTINF:-1 group-title="News & Information", Newsmax TV HD
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",  Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 group-title="Entertainment", NewsNation HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",  NewsNation HD
 http://198.58.104.90:8989/newsnation/index.m3u8
-#EXTINF:-1 group-title="National Sports", NFL Network HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",  NFL Network HD
 https://cdn.telecloud.tv/CH3227/index.m3u8
-#EXTINF:-1 group-title="National Sports", NHL Network HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/UNZ8bef.png",  NHL Network HD
 http://198.58.104.90:8989/nhl/index.m3u8
 #EXTINF:-1 group-title="Family & Kids", Nick Jr. HD
 http://103.205.133.70/nickjr/index.m3u8
