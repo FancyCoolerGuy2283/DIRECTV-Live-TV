@@ -255,3 +255,11 @@ https://cdn.telecloud.tv/CH3273/index.m3u8
 http://194.76.0.79/TCM/index.m3u8
 #EXTINF:-1,TeenNick
 http://103.205.133.70/teennick/index.m3u8
+#EXTINF:-1,Tennis Channel HD
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1,The Weather Channel HD
+http://103.205.133.70/weather/index.m3u8
+#EXTINF:-1,TLC HD
+http://103.205.133.70/tlc_hd/index.m3u8
+#EXTINF:-1,TNT HD
+https://cdn.telecloud.tv/CH4641/index.m3u8
