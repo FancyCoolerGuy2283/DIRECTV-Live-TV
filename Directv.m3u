@@ -245,15 +245,15 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3955.ts
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3962.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eE9FzEP.png",  STARZ Kids & Family HD
 http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Sundance TV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/960px-SundanceTV_2014.svg.png",  Sundance TV
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2408.ts
-#EXTINF:-1 group-title="Entertainment", Syfy
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png",  Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 group-title="Entertainment", TBS HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png",  TBS HD
 https://cdn.telecloud.tv/CH3273/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", TCM HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",  TCM HD
 http://194.76.0.79/TCM/index.m3u8
-#EXTINF:-1 group-title="Family & Kids", TeenNick
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",  TeenNick
 http://103.205.133.70/teennick/index.m3u8
 #EXTINF:-1 group-title="National Sports", Tennis Channel HD
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
