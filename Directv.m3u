@@ -273,15 +273,15 @@ http://45.228.235.116:8000/play/a05p/index.m3u8
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas West HD
 http://168.228.44.241:9997/play/a045/index.m3u8
-#EXTINF:-1 group-title="Entertainment", UNIVERSO
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RZ8pIKe.png",  UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:-1 group-title="Local Channel", Univision
+#EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision
 http://45.228.235.116:8000/play/a0kr/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Univision East HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision East HD
 http://138.121.15.230:9002/UNIVISION/index.m3u8
-#EXTINF:-1 group-title="Entertainment", USA Network
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",  USA Network
 http://103.205.133.70/usa/index.m3u8
-#EXTINF:-1 group-title="Entertainment", VH1 HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",  VH1 HD
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 group-title="Movies & Event", VICE
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",  VICE
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
