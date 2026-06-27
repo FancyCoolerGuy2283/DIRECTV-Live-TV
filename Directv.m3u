@@ -263,15 +263,15 @@ http://103.205.133.70/weather/index.m3u8
 http://103.205.133.70/tlc_hd/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",  TNT HD
 https://cdn.telecloud.tv/CH4641/index.m3u8
-#EXTINF:-1 group-title="Entertainment", Travel Channel HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RmHGeP1.png",  Travel Channel HD
 http://103.205.133.70/travel/index.m3u8
-#EXTINF:-1 group-title="Entertainment", TruTV HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",  TruTV HD
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 group-title="National Sports", TUDN HD
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/oT5CAvd.png",  TUDN HD
 http://45.228.235.116:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Entertainment", TV One
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/tthm8Q5.png",  TV One
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
-#EXTINF:-1 group-title="Entertainment", UniMas West HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas West HD
 http://168.228.44.241:9997/play/a045/index.m3u8
 #EXTINF:-1 group-title="Entertainment", UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
