@@ -118,7 +118,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://206.212.244.63/78/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",  Galavision HD
-http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFacB_dx3yN7Ko34fExqhFXR4
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/4464.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/960px-Golf_Channel_logo_2025.svg.png",  Golf Channel
