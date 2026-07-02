@@ -104,7 +104,7 @@ https://cdn.telecloud.tv/CH3239/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
 https://cdn.telecloud.tv/CH3223/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
-http://103.205.133.70/foxsports2/index.m3u8
+https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
