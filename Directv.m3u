@@ -274,7 +274,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21897.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas West HD
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RZ8pIKe.png",  UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+https://streamvidex.qzz.io/videx/universo/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision
 http://45.228.235.116:8000/play/a0kr/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision East HD
