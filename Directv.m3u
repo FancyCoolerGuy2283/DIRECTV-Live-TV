@@ -16,7 +16,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/21630.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
-https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+http://206.212.244.63/639/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
@@ -164,11 +164,11 @@ http://103.205.133.70/lifetime/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BWmqYTO.png",  Lifetime Movie Network
 http://84.17.50.102/lmn/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/960px-MTV_Classic_US.svg.png",  MTV Classic
-http://ns2.138754.xyz:80/live/gurkan2020/Jh8fqP5T4M/410660.ts
+http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",  MTV HD
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png",  MTV2 HD
-http://198.58.104.90:8989/mtv2/index.m3u8
+http://206.212.244.63/116/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",  Nat Geo Wild HD
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",  National Geographic HD
@@ -254,7 +254,7 @@ https://cdn.telecloud.tv/CH3273/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",  TCM HD
 http://194.76.0.79/TCM/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",  TeenNick
-http://103.205.133.70/teennick/index.m3u8
+http://206.212.244.63/670/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/tsljAnY.png",  Tennis Channel HD
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/PIaNjfa.png",  The Weather Channel HD
