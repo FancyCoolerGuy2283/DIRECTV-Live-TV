@@ -86,7 +86,7 @@ http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",  Disney XD HD
 http://84.17.50.102/disneyxd/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN HD
-https://cdn.telecloud.tv/CH3257/index.m3u8
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/3725
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2 HD
 http://84.17.50.102/espn2/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",  ESPNews HD
@@ -94,13 +94,13 @@ http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU HD
 http://41.205.93.154/ESPNU/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network HD
-https://cdn.telecloud.tv/CH3235/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",  FOX
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",  FOX Business Network
 http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
-https://cdn.telecloud.tv/CH3239/index.m3u8
+http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
