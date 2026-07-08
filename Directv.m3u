@@ -104,7 +104,7 @@ http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
 https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
