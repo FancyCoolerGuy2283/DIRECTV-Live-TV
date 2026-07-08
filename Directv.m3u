@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/pvXZ8DX.png",  ABC
-https://cdn.telecloud.tv/CH3271/index.m3u8
+http://stream.cammonitorplus.net/1835/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
 http://41.223.30.230/AMC/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/TpCkbkT.png",  ACC Network HD
@@ -102,9 +102,9 @@ http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
 https://cdn.telecloud.tv/CH3239/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
-https://cdn.telecloud.tv/CH3223/index.m3u8
+https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
-https://cdn.telecloud.tv/CH3225/index.m3u8
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2500.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
@@ -134,7 +134,7 @@ http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png",  HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/960px-HBO_Signature_%282014%29.svg.png",  HBO Drama HD East
-https://cdn.telecloud.tv/CH3265/index.m3u8
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/1094569
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",  HBO HD East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png",  HBO Hits HD East
@@ -146,7 +146,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",  HGTV HD
-https://cdn.telecloud.tv/CH3233/index.m3u8
+http://40.160.24.53/HGTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",  HISTORY
 http://103.205.133.70/history/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/960px-HLN_%28TV_network%29_2017_logo.svg.png",  HLN HD
@@ -174,7 +174,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",  National Geographic HD
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",  NBA TV HD
-https://cdn.telecloud.tv/CH3229/index.m3u8
+http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",  NBC
 http://190.83.9.222:8000/play/ca117/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",  Newsmax TV HD
@@ -182,7 +182,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",  NewsNation HD
 http://198.58.104.90:8989/newsnation/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",  NFL Network HD
-https://cdn.telecloud.tv/CH3227/index.m3u8
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/UNZ8bef.png",  NHL Network HD
 http://198.58.104.90:8989/nhl/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/KT4tdQs.png",  Nick Jr. HD
@@ -250,7 +250,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/2408.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png",  Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png",  TBS HD
-https://cdn.telecloud.tv/CH3273/index.m3u8
+http://41.205.93.154/TBS/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",  TCM HD
 http://194.76.0.79/TCM/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",  TeenNick
@@ -262,7 +262,7 @@ http://103.205.133.70/weather/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",  TLC HD
 http://103.205.133.70/tlc_hd/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",  TNT HD
-https://cdn.telecloud.tv/CH4641/index.m3u8
+http://84.17.50.102/tnt/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RmHGeP1.png",  Travel Channel HD
 http://103.205.133.70/travel/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",  TruTV HD
