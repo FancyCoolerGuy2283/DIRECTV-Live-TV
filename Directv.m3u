@@ -136,9 +136,9 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/dR3XPSM/IMG-2323.png",  HBO Drama HD East
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/1094569
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
-http://23.237.104.106:8080/USA_HBO/index.m3u8
+http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5hcsDMYx/IMG-2316.png",  HBO Hits HD East
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
+https://sra72yz.s.gy/HBO2_UNITED_STATES_WEST
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/LDv3YxkW/IMG-2326.png",  HBO Latino HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png",  HBO Movies HD
