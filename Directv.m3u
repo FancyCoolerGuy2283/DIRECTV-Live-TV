@@ -37,13 +37,13 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
 http://tvsen7.aynascope.net/cbs/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/ActionMax_logo.svg/960px-ActionMax_logo.svg.png",  Cinemax Action HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/ksv8CW4C/IMG-2334.png",  Cinemax Action HD
 http://40.160.24.52/ACTIONMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/960px-5StarMax_Logo.svg.png",  Cinemax Classics HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/5hMmPs7s/IMG-2336.png",  Cinemax Classics HD
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",  Cinemax East HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png",  Cinemax East HD
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png",  Cinemax Hits HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/zV3KgTXb/IMG-2333.png",  Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/GfsmfGK.png",  Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
@@ -131,17 +131,17 @@ http://206.212.244.63/83/index.m3u8
 http://206.212.244.63/84/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png",  HBO Comedy HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/wrp9wtC4/IMG-2324.png",  HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Signature_%282014%29.svg/960px-HBO_Signature_%282014%29.svg.png",  HBO Drama HD East
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/dR3XPSM/IMG-2323.png",  HBO Drama HD East
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/1094569
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",  HBO HD East
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png",  HBO Hits HD East
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5hcsDMYx/IMG-2316.png",  HBO Hits HD East
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HBO_Latino_%282014%29.svg/960px-HBO_Latino_%282014%29.svg.png",  HBO Latino HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/LDv3YxkW/IMG-2326.png",  HBO Latino HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/960px-HBO_Zone_%282014%29.svg.png",  HBO Movies HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png",  HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
