@@ -64,7 +64,7 @@ http://40.160.24.52/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",  Comedy Central HD
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",  Cooking Channel HD
-http://206.212.244.63/2507/index.m3u8
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",  Cozi TV
 http://206.212.244.63/49/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb5541.png",  Daystar HD
@@ -134,7 +134,7 @@ http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/wrp9wtC4/IMG-2324.png",  HBO Comedy HD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/dR3XPSM/IMG-2323.png",  HBO Drama HD East
-http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/1094569
+https://cdn.telecloud.tv/CH3267/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/5hcsDMYx/IMG-2316.png",  HBO Hits HD East
