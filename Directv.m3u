@@ -144,7 +144,7 @@ http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/648980.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/zW4gNnQj/IMG-2325.png",  HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
-http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/61858.ts
+http://206.212.244.63/88/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",  HGTV HD
 http://40.160.24.53/HGTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",  HISTORY
