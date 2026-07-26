@@ -58,7 +58,7 @@ http://206.212.244.63/42/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",  CNN En Espanol
 http://179.60.51.134:8888/CNN/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png",  CNN HD
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://40.160.24.52/CNN/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/dfxefQw.png",  CNNi HD East
 http://40.160.24.52/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",  Comedy Central HD
