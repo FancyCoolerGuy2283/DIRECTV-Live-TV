@@ -102,9 +102,9 @@ http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
 http://206.212.244.63/67/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
-https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
-https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
+https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
@@ -214,7 +214,7 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next HD
 http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/CLyGvZZ.png",  Showtime Showcase HD
-http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890
+http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/ghzzKoT.png",  STARZ Cinema HD
@@ -268,13 +268,13 @@ http://206.212.244.63/162/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",  TruTV HD
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/oT5CAvd.png",  TUDN HD
-http://45.228.235.116:8000/play/a05p/index.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/tthm8Q5.png",  TV One
 http://206.212.244.63/166/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png",  UniMas West HD
 http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RZ8pIKe.png",  UNIVERSO
-https://streamvidex.qzz.io/videx/universo/index.m3u8
+http://200.39.57.254:8008/play/a004/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision
 http://45.228.235.116:8000/play/a0kr/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision East HD
