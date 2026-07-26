@@ -37,6 +37,8 @@ http://41.205.93.154/BRAVO/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
 http://tvsen7.aynascope.net/cbs/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network HD
+https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/ksv8CW4C/IMG-2334.png",  Cinemax Action HD
 http://40.160.24.52/ACTIONMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/5hMmPs7s/IMG-2336.png",  Cinemax Classics HD
@@ -85,6 +87,8 @@ http://212.5.144.156:8080/disney/index.m3u8
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",  Disney XD HD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E!
+http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN HD
 http://212.5.144.156:8080/espn/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2 HD
@@ -93,6 +97,8 @@ http://4.30.180.36:8420/espn2/index.m3u8?token=test
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU HD
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Z9xclnE.png", Family Entertainment Television
+http://206.212.244.63/60/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network HD
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",  FOX
