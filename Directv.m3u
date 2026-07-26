@@ -20,9 +20,9 @@ http://206.212.244.63/639/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
-http://84.17.50.102/bet/index.m3u8
+https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
-http://84.17.50.102/bether/index.m3u8
+https://gpuserver3.tier1streams.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",  Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/R7FCaB5.png", Bloomberg TV HD
@@ -138,7 +138,7 @@ http://206.212.244.63/84/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://206.212.244.63/86/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/wrp9wtC4/IMG-2324.png",  HBO Comedy HD
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+http://40.160.24.53/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/dR3XPSM/IMG-2323.png",  HBO Drama HD East
 http://40.160.24.53/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
