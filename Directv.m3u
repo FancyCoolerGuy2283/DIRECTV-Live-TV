@@ -249,10 +249,18 @@ http://206.212.244.63/142/index.m3u8
 http://206.212.244.63/143/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg", RACER Network
 https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png", Reelz Channel HD
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/eaYnGpH.png", Revolt HD
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/HFmkjiR.png", Scientology Network
+https://stream6.scientology.org/master.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png", SEC Network HD
 http://206.212.244.63/2511/index.m3u8
+#EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg", Shop LC HD
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 HD
 http://40.160.24.55/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/byJNJdm.png",  Showtime Extreme HD
@@ -309,6 +317,8 @@ http://206.212.244.63/670/index.m3u8
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/PIaNjfa.png",  The Weather Channel HD
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/8nqbi9b.png", TheGrio
+http://206.212.244.63/156/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",  TLC HD
 http://206.212.244.63/159/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",  TNT HD
