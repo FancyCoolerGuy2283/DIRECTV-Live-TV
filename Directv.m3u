@@ -123,11 +123,11 @@ https://cdn.telecloud.tv/CH3225/index.m3u8
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZScwrpi.png",  FX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png",  FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/7dyLCv4.png",  FX Movie Channel
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/KJnkVT8/IMG-2453.webp",  FX Movie Channel
 https://gpuserver3.tier1streams.com/FXM/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",  FXX HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://206.212.244.63/78/index.m3u8
