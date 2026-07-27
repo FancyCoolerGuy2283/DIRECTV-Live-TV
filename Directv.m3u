@@ -237,14 +237,22 @@ http://40.160.24.55/SHOWTIME/index.m3u8
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://seeklogo.com/images/P/pbs-kids-logo-7374D3289B-seeklogo.com.png",  PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/XySNnh0.png", POP HD
+http://206.212.244.63/139/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png", Pursuit Channel HD
+http://206.212.244.63/140/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png", QVC HD
 http://206.212.244.63/141/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/NxbDjfI.png", QVC2
 http://206.212.244.63/142/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/edswdOO.png", QVC3
 http://206.212.244.63/143/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg", RACER Network
+https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",  Science HD
 http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png", SEC Network HD
+http://206.212.244.63/2511/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 HD
 http://40.160.24.55/SHOWTIME_2/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/byJNJdm.png",  Showtime Extreme HD
