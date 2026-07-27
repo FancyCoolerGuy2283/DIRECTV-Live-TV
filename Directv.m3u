@@ -187,7 +187,7 @@ http://206.212.244.63/103/index.m3u8
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png", MeTV
 http://206.212.244.63/108/index.m3u8
-#EXTINF:-1 group-title="Kids & Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png", MeTV Toons
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png", MeTV Toons
 http://206.212.244.63/112/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/sA5V39D.png", MLB Network HD
 https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
