@@ -47,7 +47,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/zV3KgTXb/IMG-2333.png",  Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/GfsmfGK.png",  Cinemáx HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/4w27VFFr/IMG-2468.png",  Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/US0T6DC.png",  Cleo TV
 http://206.212.244.63/38/index.m3u8
@@ -121,7 +121,7 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freeform_2022_pink.svg/1920px-Freeform_2022_pink.svg.png",  Freeform HD
 http://206.212.244.63/69/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png",  Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png",  FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
@@ -131,7 +131,7 @@ https://gpuserver3.tier1streams.com/FXM/index.m3u8
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/PggQk7F.png",  FYI
 http://206.212.244.63/78/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/960px-Galavision_Logo_2013.svg.png",  Galavision HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
 http://200.39.57.254:8008/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
