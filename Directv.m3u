@@ -119,7 +119,7 @@ http://206.212.244.63/67/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
 https://cdn.telecloud.tv/CH3225/index.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/BGAGeIf.png",  Freeform HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freeform_2022_pink.svg/1920px-Freeform_2022_pink.svg.png",  Freeform HD
 http://206.212.244.63/69/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/mijRpPQ.jpg",  Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
