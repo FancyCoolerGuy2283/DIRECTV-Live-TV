@@ -40,11 +40,11 @@ http://tvsen7.aynascope.net/cbs/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network HD
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/6JL79rbZ/IMG-2472.png",  Cinemax Action HD
-http://40.160.24.52/ACTIONMAX/index.m3u8
+https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/m5yymtMw/IMG-2478.png",  Cinemax Classics HD
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+https://gpuserver3.tier1streams.com/5_STARMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png",  Cinemax East HD
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+https://gpuserver3.tier1streams.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/Kp7m2G19/IMG-2477.png",  Cinemax Hits HD
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/4w27VFFr/IMG-2468.png",  Cinemáx HD
