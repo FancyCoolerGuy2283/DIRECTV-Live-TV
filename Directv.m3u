@@ -18,7 +18,7 @@ http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
 http://206.212.244.63/639/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+hthttps://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
 https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
@@ -32,7 +32,7 @@ https://gpuserver3.tier1streams.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",  BounceTV
 https://gpuserver3.tier1streams.com/BOUNCE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
-http://41.205.93.154/BRAVO/index.m3u8
+https://gpuserver3.tier1streams.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
