@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
-http://23.239.31.26:8989/aande/index.m3u8
+https://messi.damitv.st/papi/ts/ae-usa/playlist.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/pvXZ8DX.png",  ABC
 https://gpuserver3.tier1streams.com/ABC/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
@@ -320,7 +320,7 @@ http://206.212.244.63/151/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/4fMWhUE.png",  Syfy
 https://gpuserver5.tier1streams.com/SYFY/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TBS_Network-logo.svg/960px-TBS_Network-logo.svg.png",  TBS HD
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+https://messi.damitv.st/papi/ts/tbs-usa/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png",  TCM HD
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",  TeenNick
@@ -334,11 +334,11 @@ http://206.212.244.63/156/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",  TLC HD
 http://206.212.244.63/159/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",  TNT HD
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+https://messi.damitv.st/papi/ts/tnt-usa/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RmHGeP1.png",  Travel Channel HD
 http://206.212.244.63/162/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",  TruTV HD
-https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+https://messi.damitv.st/papi/ts/trutv-usa/playlist.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/oT5CAvd.png",  TUDN HD
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/VNNS4mF.png", TV Land HD
