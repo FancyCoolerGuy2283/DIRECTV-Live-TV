@@ -269,17 +269,17 @@ https://stream6.scientology.org/master.m3u8
 http://206.212.244.63/2511/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Shop_LC_Logo.svg", Shop LC HD
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png",  SHOWTIME 2 HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Showtime_2.svg/960px-Showtime_2.svg.png",  SHOWTIME 2 HD
 https://messi.damitv.st/papi/ts/showtime2-usa/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/byJNJdm.png",  Showtime Extreme HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/960px-Showtime_Extreme.svg.png",  Showtime Extreme HD
 https://messi.damitv.st/papi/ts/showtimeextreme-usa/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/qwJUawJ.png",  Showtime Family & Zone HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png",  Showtime Family & Zone HD
 https://messi.damitv.st/papi/ts/showtimefamilyzone-usa/playlist.m3u8
-#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/416F1kV.png",  Showtime Next HD
+#EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/960px-Showtime_Next.svg.png",  Showtime Next HD
 https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/CLyGvZZ.png",  Showtime Showcase HD
 http://restream-live.realiptv.to:8080/monstercable/Dq6jjknxCr/631890.ts
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/bty4UCb.png",  SHOxBET HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wZbJDTSq/IMG-2514.webp",  SHOxBET HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3968.ts
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png", Smithsonian Channel HD
 http://206.212.244.63/148/index.m3u8
