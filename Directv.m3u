@@ -130,7 +130,7 @@ https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
 https://gpuserver3.tier1streams.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
-http://206.212.244.63/78/index.m3u8
+http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328952
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
 http://200.39.57.254:8008/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
@@ -238,7 +238,7 @@ http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png", Oxygen True Crime
 http://40.160.24.55/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",  Paramount TV
-http://206.212.244.63/137/index.m3u8
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/Or0LKsu.png",  Paramount+ With Showtime East HD
 https://messi.damitv.st/papi/ts/showtime-usa/playlist.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/8c8isLj.png",  PBS
