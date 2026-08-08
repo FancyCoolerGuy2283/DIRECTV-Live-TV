@@ -2,27 +2,27 @@
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/pvXZ8DX.png",  ABC
-https://gpuserver3.tier1streams.com/ABC/index.m3u8
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/TpCkbkT.png",  ACC Network HD
-https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8
+http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",  American Heros Channel (AHC)
-https://gpuserver3.tier1streams.com/AMERICAN_HEROES_CHANNEL/index.m3u8
+http://40.160.24.52/AMERICAN_HEROES_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",  Animal Planet HD
-https://gpuserver3.tier1streams.com/ANIMAL_PLANET/index.m3u8
+http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TOM5qO6.png",  ASPIRE (HD)
-https://gpuserver3.tier1streams.com/ASPIRE/index.m3u8
+http://40.160.24.52/ASPIRE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
-https://gpuserver3.tier1streams.com/AXS_TV/index.m3u8
+http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/pTiiPz0.png", BBC America HD
-hthttps://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/L2LZpsj.png",  BET HD
-https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
+http://40.160.24.52/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oafsrlo.png",  BET Her
-https://gpuserver3.tier1streams.com/BET_HER/index.m3u8
+http://40.160.24.52/BET_HER/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png",  Big Ten Network
 https://gpuserver3.tier1streams.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/R7FCaB5.png", Bloomberg TV HD
