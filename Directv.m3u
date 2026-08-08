@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
-https://gpuserver3.tier1streams.com/AE/index.m3u8
+http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/pvXZ8DX.png",  ABC
 https://gpuserver3.tier1streams.com/ABC/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",  AMC
@@ -32,7 +32,7 @@ https://gpuserver3.tier1streams.com/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png",  BounceTV
 https://gpuserver3.tier1streams.com/BOUNCE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
-https://gpuserver3.tier1streams.com/BRAVO/index.m3u8
+http://tvsen7.aynascope.net/bravo/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
