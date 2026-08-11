@@ -130,7 +130,7 @@ http://40.160.24.56/FXM_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
 http://40.160.24.56/FXX_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
-http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328952
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121820.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
 http://200.39.57.254:8008/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
@@ -144,7 +144,7 @@ https://gpuserver3.tier1streams.com/GetTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TzvnHDn.png",  Great America Family HD
 https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6w1Wj3j.png", GRIT
-https://gpuserver3.tier1streams.com/GRIT/index.m3u8
+http://40.160.24.58/GRIT_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",  Hallmark Channel HD
 http://40.160.24.53/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
@@ -156,7 +156,7 @@ http://40.160.24.53/HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
 http://40.160.24.53/HBO_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png",  HBO Hits HD East
-http://tvsen7.aynascope.net/hbo2/index.m3u8
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/7NkDvSVR/IMG-2488.png",  HBO Latino HD
 https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png",  HBO Movies HD
