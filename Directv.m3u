@@ -71,7 +71,7 @@ http://40.160.24.56/COOKING_CHANNEL_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/0F1c7x4.png", Cowboy Channel
 http://40.160.24.56/THE_COWBOY_CHANNEL_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/960px-Cozi_TV_logo.svg.png",  Cozi TV
-https://gpuserver3.tier1streams.com/COZI_TV/index.m3u8
+http://40.160.24.56/COZI_TV_SD/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png", CSPAN
 https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://i.imgur.com/9B6XIQC.png", CSPAN 2
@@ -97,13 +97,13 @@ http://40.160.24.52/DISNEY_XD_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E!
 http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN HD
-https://ftv.itscwd273.workers.dev/?id=ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2 HD
-https://ftv.itscwd273.workers.dev/?id=ESPN2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",  ESPNews HD
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/HiBrysh.png",  ESPNU HD
-https://ftv.itscwd273.workers.dev/?id=ESPNU
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Z9xclnE.png", Family Entertainment Television
 http://40.160.24.52/GetTV/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/YPHrFU0.png", FanDuel TV
@@ -143,7 +143,7 @@ https://gpuserver3.tier1streams.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Great_Entertainment_Television_2026.webp/1920px-Great_Entertainment_Television_2026.webp.png", GREAT
 https://gpuserver3.tier1streams.com/GetTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TzvnHDn.png",  Great America Family HD
-https://gpuserver3.tier1streams.com/GREAT_AMERICAN_COUNTRY/index.m3u8
+http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/6w1Wj3j.png", GRIT
 http://40.160.24.58/GRIT_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/960px-Hallmark_Channel.svg.png",  Hallmark Channel HD
