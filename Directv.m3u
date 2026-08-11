@@ -8,11 +8,11 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/TpCkbkT.png",  ACC Network HD
 http://23.239.31.26:8989/accnetwork/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",  American Heros Channel (AHC)
-http://40.160.24.52/AMERICAN_HEROES_CHANNEL/index.m3u8
+http://40.160.24.56/AMERICAN_HEROES_CHANNEL_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",  Animal Planet HD
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TOM5qO6.png",  ASPIRE (HD)
-http://40.160.24.52/ASPIRE/index.m3u8
+http://40.160.24.56/ASPIRE_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png", AXS TV HD
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/WxLHBwu.png",  BabyFirst
@@ -34,19 +34,19 @@ http://40.160.24.52/BOUNCE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/JmTIRLF.png",  Bravo
 http://tvsen7.aynascope.net/bravo/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",  Cartoon Network HD
-http://40.160.24.52/CARTOON_NETWORK_EAST/index.m3u8
+http://40.160.24.56/CARTOON_NETWORK_EAST_SD/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",  CBS
 http://tvsen7.aynascope.net/cbs/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/A8CnA8g.png", CBS Sports Network HD
 https://gpuserver3.tier1streams.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/6JL79rbZ/IMG-2472.png",  Cinemax Action HD
-http://40.160.24.52/ACTIONMAX/index.m3u8
+http://40.160.24.56/ACTIONMAX_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/m5yymtMw/IMG-2478.png",  Cinemax Classics HD
-http://40.160.24.52/5_STARMAX/index.m3u8
+http://40.160.24.56/5_STARMAX_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/tTPkXgC8/IMG-2399.png",  Cinemax East HD
 http://40.160.24.52/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/Kp7m2G19/IMG-2477.png",  Cinemax Hits HD
-http://trxx.in:80/a13d09a0ad/aa0d4b0e19d4/174588
+http://40.160.24.56/MOREMAX_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/4w27VFFr/IMG-2468.png",  Cinemáx HD
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/553422.ts
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/US0T6DC.png",  Cleo TV
@@ -94,7 +94,7 @@ https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",  Disney XD HD
 http://40.160.24.52/DISNEY_XD_HD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E!
-https://gpuserver3.tier1streams.com/E_ENTERTAINMENT_EAST/index.m3u8
+http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",  ESPN HD
 https://ftv.itscwd273.workers.dev/?id=ESPN
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/00tsvjE.png",  ESPN2 HD
@@ -110,25 +110,25 @@ http://40.160.24.55/TVG/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",  Food Network HD
 http://212.5.144.156:8080/foodnetwork/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png",  FOX
-http://40.160.24.52/FOX/index.m3u8
+http://40.160.24.56/FOX_SD/index.m3u8
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",  FOX Business Network
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+http://40.160.24.56/FOX_BUSINESS_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",  FOX News Channel
-https://gpuserver3.tier1streams.com/FOX_NEWS/index.m3u8
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/O9BapV9.png",  FOX Sports 1 HD
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://i.imgur.com/LHtxKI8.png",  FOX Sports 2 HD
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121815.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/FcqBJS4/IMG-2498.png",  Freeform HD
-http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+http://40.160.24.56/FREEFORM_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png",  Fuse HD
-https://gpuserver3.tier1streams.com/FUSE/index.m3u8
+http://40.160.24.56/FUSE_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png",  FX HD
-https://gpuserver3.tier1streams.com/FX/index.m3u8
+http://40.160.24.56/FX_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/KJnkVT8/IMG-2453.webp",  FX Movie Channel
-https://gpuserver3.tier1streams.com/FXM/index.m3u8
+http://40.160.24.56/FXM_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
-https://gpuserver3.tier1streams.com/FXX/index.m3u8
+http://40.160.24.56/FXX_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
 http://10k.lucastv.pro:80/2c99755ae255/gJnMAT2/328952
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
