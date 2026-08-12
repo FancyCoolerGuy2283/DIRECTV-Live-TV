@@ -88,11 +88,11 @@ http://40.160.24.56/DISCOVERY_CHANNEL_SD/index.m3u8
 http://40.160.24.56/DISCOVERY_LIFE_SD/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/1pQPxu3.png",  Discovery Turbo HD
 https://gpuserver3.tier1streams.com/MOTORTREND/index.m3u8
-#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",  Disney Channel HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",  Disney Channel HD
 http://40.160.24.56/Disney_Channel_HD_SD/index.m3u8
-#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",  Disney Junior HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",  Disney Junior HD
 https://gpuserver3.tier1streams.com/Disney_JR/index.m3u8
-#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",  Disney XD HD
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",  Disney XD HD
 http://40.160.24.56/DISNEY_XD_HD_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/TWFDkap.png", E!
 http://40.160.24.56/E_ENTERTAINMENT_EAST_SD/index.m3u8
@@ -220,7 +220,7 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2436.ts
 http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3821.ts
 #EXTINF:-1 group-title="News & Information" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png",  Newsmax TV HD
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91097/s91097_ll_h15_ae.png?w=512",  NewsNation HD
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NewsNation_logo.svg/960px-NewsNation_logo.svg.png",  NewsNation HD
 http://40.160.24.58/NEWSNATION/index.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",  NFL Network HD
 http://45.189.62.33:8002/play/a0kk/index.m3u8
@@ -244,7 +244,7 @@ https://gpuserver5.tier1streams.com/PARAMOUNT_CHANNEL/index.m3u8
 https://gpuserver5.tier1streams.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://i.imgur.com/8c8isLj.png",  PBS
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://seeklogo.com/images/P/pbs-kids-logo-7374D3289B-seeklogo.com.png",  PBS Kids
+#EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/960px-PBS_Kids_logo_%282022%29.svg.png",  PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/XySNnh0.png", POP HD
 https://gpuserver5.tier1streams.com/POP/index.m3u8
