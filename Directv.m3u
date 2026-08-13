@@ -231,7 +231,7 @@ https://gpuserver5.tier1streams.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/E84jnP8.png",  Nickelodeon East HD
 https://gpuserver5.tier1streams.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/960px-Nicktoons_Logo_2023.svg.png",  Nicktoons
-https://gpuserver5.tier1streams.com/NICKTOONS/index.m3u8
+http://40.160.24.58/NICKTOONS_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/A3o9gvc.png",  Ovation HD
 https://gpuserver5.tier1streams.com/OVATION/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",  OWN HD
