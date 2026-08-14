@@ -151,17 +151,17 @@ http://40.160.24.53/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/N6SN9phR/IMG-2485.png",  HBO Comedy HD
-http://40.160.24.53/HBO_COMEDY/index.m3u8
+http://40.160.24.58/HBO_COMEDY_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/sdTjcT6F/IMG-2484.png",  HBO Drama HD East
-http://40.160.24.53/HBO_SIGNATURE/index.m3u8
+http://40.160.24.58/HBO_SIGNATURE_SD/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
-http://40.160.24.53/HBO_HD/index.m3u8
+http://40.160.24.58/HBO_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png",  HBO Hits HD East
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/7NkDvSVR/IMG-2488.png",  HBO Latino HD
 https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png",  HBO Movies HD
-http://40.160.24.53/HBO_ZONE/index.m3u8
+http://40.160.24.58/HBO_ZONE_SD/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
 http://4.30.180.36:8420/heroes/index.m3u8?token=test
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",  HGTV HD
