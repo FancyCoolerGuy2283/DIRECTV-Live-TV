@@ -127,9 +127,9 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/35wTxjfF/IMG-2451.png",  FX HD
 http://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/KJnkVT8/IMG-2453.webp",  FX Movie Channel
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1106/index.m3u8
+https://messi.damitv.st/papi/ts2/fxm-usa.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/Q7jLGRLN/IMG-2452.png",  FXX HD
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+https://messi.damitv.st/papi/ts2/fxx-usa.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121820.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
@@ -151,15 +151,15 @@ http://40.160.24.53/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/GPRGA9C.png",  Hallmark Mystery
 http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/N6SN9phR/IMG-2485.png",  HBO Comedy HD
-http://40.160.24.58/HBO_COMEDY_SD/index.m3u8
+https://messi.damitv.st/papi/ts2/hbocomedy-usa.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/sdTjcT6F/IMG-2484.png",  HBO Drama HD East
-http://40.160.24.58/HBO_SIGNATURE_SD/index.m3u8
+https://messi.damitv.st/papi/ts2/hbodrama-usa.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/MDBLDWWc/IMG-2397.png",  HBO HD East
 http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/0V6R2Zt5/IMG-2483.png",  HBO Hits HD East
 http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/7NkDvSVR/IMG-2488.png",  HBO Latino HD
-https://messi.damitv.st/papi/ts/hbolatino-usa/playlist.m3u8
+http://messi.damitv.st/papi/ts2/hbolatino-usa.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.ibb.co/pv3f5J0T/IMG-2486.png",  HBO Movies HD
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/960px-Heroes_%26_Icons_logo.svg.png",  Heroes & Icons
@@ -231,7 +231,7 @@ http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://i.imgur.com/E84jnP8.png",  Nickelodeon East HD
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Family & Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/960px-Nicktoons_Logo_2023.svg.png",  Nicktoons
-http://tvsen7.aynascope.net/nicktoons/index.m3u8
+https://messi.damitv.st/papi/ts2/nicktoons-usa.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/A3o9gvc.png",  Ovation HD
 https://gpuserver5.tier1streams.com/OVATION/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/960px-OWN_2011_logo.svg.png",  OWN HD
@@ -257,7 +257,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/edswdOO.png", QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 group-title="National Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Racer_Network.jpg", RACER Network
-https://messi.damitv.st/papi/ts/racernetwork-usa/playlist.m3u8
+http://messi.damitv.st/papi/ts2/racernetwork-usa.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png", Reelz Channel HD
 https://gpuserver5.tier1streams.com/REELZ/index.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/eaYnGpH.png", Revolt HD
