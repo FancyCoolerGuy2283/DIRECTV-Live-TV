@@ -133,7 +133,7 @@ https://messi.damitv.st/papi/ts2/fxx-usa.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/KzK80Xgp/IMG-2489.webp",  FYI
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2121820.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j9kGjw2v/IMG-2470.png",  Galavision HD
-http://200.39.57.254:8008/play/a00v/index.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/960px-Game_Show_Network_2018.svg.png",  Game Show Network HD
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="Movies & Event" tvg-logo="https://i.imgur.com/WlHEpAu.png", GEM Shopping Network
@@ -351,9 +351,9 @@ http://168.228.44.241:9997/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/RZ8pIKe.png",  UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="Local Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision
-http://190.120.229.48/Univision/index.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",  Univision East HD
-http://misterich.megatv.fun/iptv/CVHTUN2FGZ4TTVYBXGA5MRPN/1099/index.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/AvR9LSn.png", UPTV
 http://40.160.24.55/Up_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",  USA Network
