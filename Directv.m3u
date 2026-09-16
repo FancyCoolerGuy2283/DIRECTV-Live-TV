@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com/directv.com.channels.xml" 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/refs/heads/master/sites/directv.com/directv.com.channels.xml,http://127.0.0.1:8089/devices/TVE-ATTOTT/guide/xmltv?duration=1209600,http://127.0.0.1:8089/devices/TVE-DTV/guide/xmltv?duration=1209600"
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png", A&E
 http://23.239.31.26:8989/aande/index.m3u8
