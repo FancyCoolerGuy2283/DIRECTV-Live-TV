@@ -1,0 +1,34 @@
+name: "Broken Link"
+description: "Submit a request a broken link to add new link"
+labels: ['remove:link']
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the form as much as you can so we could efficiently process your request. To suggest a new replacement link, use this [form](https://github.com/iptv-org/iptv/issues/new?assignees=&labels=streams:add&projects=&template=1_streams_add.yml&title=Add%3A+).
+
+ - type: textarea
+    id: stream_url
+    attributes:
+      label: Stream URL
+      description: List all links in question (one per line)
+      placeholder: 'https://lnc-kdfw-fox-aws.tubi.video/index.m3u8'
+    validations:
+      required: true
+  - type: dropdown
+    id: reason
+    attributes:
+      label: What happened to the stream?
+      options:
+      - 403 Error
+      - 404 Error
+      - 401 Error
+  validations:
+    required: true
+
+     - type: textarea
+    id: notes
+    attributes:
+      label: Notes (optional)
+      placeholder: 'Anything else we should know?' 
